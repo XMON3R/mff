@@ -1,0 +1,4 @@
+NOTES FOR OWN PROJECTS
+--- code in free time
+
+1. kamikaze running game? Csharp? 
