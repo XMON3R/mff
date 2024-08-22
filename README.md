@@ -1,2 +1,2 @@
 # MFF
-My 2nd Year projects
+My projects related to my studies on MFF
